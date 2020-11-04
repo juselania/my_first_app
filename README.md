@@ -32,4 +32,3 @@ This project is under the MIT license. See the archive [LICENSE](LICENSE.md) for
 
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/jusel%C3%A2nia-silva-56a375197/) [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/jullydeveloper/) 
 </h1>
-
