@@ -4,7 +4,7 @@
     <img src="./github/home-page.gif" alt="" width="43%" heigth="45%"> 
 </p>
 
-### 🧐 Functions:
+## 🧐 Functions:
 - Clicking the button generates a message;
 - You will have four messages in total;
 
@@ -26,7 +26,6 @@ samples, guidance on mobile development, and a full API reference.
 ## 📝 Licenças
 
 This project is under the MIT license. See the archive [LICENSE](LICENSE.md) for more details.
-
 
 <h1 align="center">
 
