@@ -1,9 +1,3 @@
-
-
-<p align="center"> 
-    <img src="./github/home-page.gif" alt="" width="43%" heigth="45%"> 
-</p>
-
 ## 🧐 Functions:
 - Clicking the button generates a message;
 - You will have four messages in total;
