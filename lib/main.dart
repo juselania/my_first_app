@@ -39,7 +39,7 @@ class _MyHomePageState extends State<MyHomePage> {
     'O importante não é vencer todos os dias, nas lutar sempre.',
     'É melhor conquistar a si mesmo do que vencer mil batalhas.',
     'O medo de perder tira a vontade de ganhar.',
-    'Perder para a razão, sempre é ganhar.'
+    'Perder para a razão, sempre é ganhar!'
   ];
 
   void _incrementCounter() {
