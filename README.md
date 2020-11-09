@@ -8,7 +8,7 @@ Project developed in progress.
     <img src="./github/home-page.gif" alt="" width="43%" heigth="45%"> 
 </p>
 
-## Getting Started
+### Getting Started
 
 This project is a starting point for a Flutter application.
 
