@@ -22,7 +22,6 @@ For help getting started with Flutter, view our
 samples, guidance on mobile development, and a full API reference.
 
 ## 📝 Licenças
-
 This project is under the MIT license. See the archive [LICENSE](LICENSE.md) for more details.
 
 <h1 align="center">
